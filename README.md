@@ -1,1 +1,2 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ckd2oijmf0x7fkbm?svg=true)](https://ci.appveyor.com/project/vadDEAD/natdz2)
+[![Build status](https://ci.appveyor.com/api/projects/status/8xqya7g1itwk5947?svg=true)](https://ci.appveyor.com/project/vadDEAD/natdz2)
+//2
